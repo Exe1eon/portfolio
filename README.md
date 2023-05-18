@@ -6,7 +6,7 @@
    
 2) Тестирование приложения TO DO.
 
-   Протестировано приложение TO DO предназначенное для работы на андройде, созданы файлы с чек листом ([тык](https://docs.google.com/spreadsheets/d/1CgvZZRO3t6yHCk1Un6NFUxjWvFzd9m3duTRYFdSrR7w/edit#gid=0)), и баг- репортами ([тык](https://docs.google.com/document/d/1o8fnQi4JTHhuAjHGfsJQvUU0Kww62b3bZyuNWhk_77o/edit?usp=sharing)).
+   Протестировано приложение TO DO предназначенное для работы на андройде, созданы файлы с чек листом ([тык](https://docs.google.com/spreadsheets/d/1CgvZZRO3t6yHCk1Un6NFUxjWvFzd9m3duTRYFdSrR7w/edit#gid=0)) и баг- репортами ([тык](https://docs.google.com/document/d/1o8fnQi4JTHhuAjHGfsJQvUU0Kww62b3bZyuNWhk_77o/edit?usp=sharing)).
 
 3) Тестирование API.
    
