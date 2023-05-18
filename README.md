@@ -1,5 +1,5 @@
 # Portfolio
-Здесь вы можете увидеть мои познания в написании тестовой документации:
+Здесь вы можете посмотреть мои навыки в написании тестовой документации:
 1) Проект lifestylecenter.
   
    Протестирован онлайн-магазин оптовых товаров [lifestylecentre.ru](https://lifestylecentre.ru), созданы файлы c чек листом ([тык](https://docs.google.com/spreadsheets/d/1Qd47NPHtqcaADLlAuzdupbewHJJtStFMDuAUAugxCfU/edit?usp=sharing)) и баг-репортами ([тык](https://docs.google.com/document/d/1fzTqwXUh1fK6q_Y-pEqsR0hbyo7dVNfkZOZ3SWcQtC0/edit?usp=sharing)).
